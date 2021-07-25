@@ -6,7 +6,8 @@ details by their names, activate and deactivate users accounts, show the list of
 <img src='https://github.com/abhi-s19/Registration-Form/blob/main/screenshot/page5.png'><img src='https://github.com/abhi-s19/Registration-Form/blob/main/screenshot/page6.png'>
 <img src='https://github.com/abhi-s19/Registration-Form/blob/main/screenshot/page7.png'><img src='https://github.com/abhi-s19/Registration-Form/blob/main/screenshot/page8.png'>
 <img src='https://github.com/abhi-s19/Registration-Form/blob/main/screenshot/page9.png'><img src='https://github.com/abhi-s19/Registration-Form/blob/main/screenshot/page10.png'>
-<img src='https://github.com/abhi-s19/Registration-Form/blob/main/screenshot/page11.png'>
+<img src='https://github.com/abhi-s19/Registration-Form/blob/main/screenshot/page11.png'><img src='https://github.com/abhi-s19/Registration-Form/blob/main/screenshot/page12.png'>
+
 
 
 
