@@ -1,0 +1,11 @@
+#fname{
+    margin-left: 25px;
+}
+#budget{
+    width: 20%;
+}
+.has-error
+{
+   border-color:#cc0000;
+   background-color:#ffff99;
+}
